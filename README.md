@@ -1,7 +1,7 @@
 # Computer-Vision-and-Application
 NTUST computer vision class
 
-In this class, I have done 3 homework,a midterm project and a final project.
+In this class, I have done 3 homework, a midterm project and a final project.
 
 
 Homework#1：Using shape from silhouette method for 3D reconstruction
